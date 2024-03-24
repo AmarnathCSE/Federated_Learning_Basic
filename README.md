@@ -26,4 +26,4 @@ A basic implementation of the Sigmoid Neuron model on the MNIST dataset
 
 This folder uses the Federated_learning_CNN on MNIST and changes its parameters and other variables intialiasation to perceive its impact on the output of the whole model. The pictures are seperately provided in the folder.
 
-### NOTE:- *The files are still not finalised and are still under the process of FINE=TUNING.*
+### NOTE:- *The files are still not finalised and are still under the process of FINE-TUNING.*
