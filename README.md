@@ -1,4 +1,4 @@
-# Federated_Learning_Basic
+# Federated_Learning
 
 This Git Repo has been created to share the projects associated Federated Learning In Computer Vision as well as the Deep Learning Framework Implementations associated with it. 
 
